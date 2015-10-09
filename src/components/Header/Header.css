@@ -9,6 +9,7 @@
 .Header {
   background: #373277;
   color: #fff;
+  margin-bottom: 10px;
 }
 
 .Header-container {
@@ -28,6 +29,7 @@
 }
 
 .Header-nav {
+
   float: right;
   margin-top: 6px;
 }
@@ -49,4 +51,8 @@
   color: rgba(255, 255, 255, .5);
   font-size: 1.25em;
   margin: 0;
+}
+
+.Header-bannerButton {
+  margin: 20px;
 }

@@ -7,6 +7,7 @@ import withStyles from '../../decorators/withStyles';
 import Header from '../Header';
 import Feedback from '../Feedback';
 import Footer from '../Footer';
+import '../../../node_modules/bootstrap/dist/css/bootstrap.css?root=./node_modules/bootstrap/dist/';
 
 @withContext
 @withStyles(styles)
